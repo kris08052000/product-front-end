@@ -1,0 +1,15 @@
+
+.entity-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.entity-table th, .entity-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.entity-table th {
+    background-color: #f2f2f2;
+}
